@@ -1,4 +1,4 @@
-# AI_Car — Autonomous Agricultural UGV with Vision-Based Navigation
+# Autonomous Agricultural UGV with Vision-Based Navigation
 
 An unmanned ground vehicle (UGV) for farming environments that navigates autonomously using a vision-based navigation system. The vehicle detects crop areas and navigable paths from camera input and generates its own steering and propulsion commands.
 
